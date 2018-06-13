@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/learn02/learn02.iml" filepath="$PROJECT_DIR$/learn02/learn02.iml" />
+      <module fileurl="file://$PROJECT_DIR$/learn03-jdbc/learn03-jdbc.iml" filepath="$PROJECT_DIR$/learn03-jdbc/learn03-jdbc.iml" />
+      <module fileurl="file://$PROJECT_DIR$/learn4-mybatis/learn4-mybatis.iml" filepath="$PROJECT_DIR$/learn4-mybatis/learn4-mybatis.iml" />
+    </modules>
+  </component>
+</project>
