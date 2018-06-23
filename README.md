@@ -7,6 +7,7 @@ springboot个人学习测试小demo
 
 
 
+
 下面是多线程情况下i++ 保证原子操作的解决方案伪代码，主要使用AtomicInteger的原子加，原子减。(csdn账号密码忘了 就先在此记录一下)
  public class IncTest {
     private volatile static AtomicInteger i=new AtomicInteger(0);
